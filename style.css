@@ -1,0 +1,18 @@
+.header{
+    background-color:aquamarine;
+    display:block;
+    justify-content:space-around;
+    font-family:sans-serif;
+}
+
+.grid{
+    background-color:lavender;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.intro{
+    font-size: 15px;
+    justify-content:right;
+}
